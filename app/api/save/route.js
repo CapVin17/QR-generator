@@ -1,5 +1,5 @@
 import dbConnect from "../../lib/dbConnect";
-import schema from "../../models/QrSchema";
+import schema from "../../models/qrschema";
 
 export async function POST(req) {
   try {

@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useRef } from "react";
+import React, { useState } from "react";
 import { QRCodeCanvas } from "qrcode.react";
 import axios from "axios";
 
